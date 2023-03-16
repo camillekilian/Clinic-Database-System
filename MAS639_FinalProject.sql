@@ -1,6 +1,5 @@
 # Dentist Database Management System
 
-USE x_bonzano;
 
 # Creating Tables
 
